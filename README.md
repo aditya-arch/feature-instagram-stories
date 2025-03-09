@@ -96,7 +96,7 @@ A simplified version of Instagram Stories built with **Vite + React** and TypeSc
 - **Initial Commit:**
   - Project scaffolding committed to the master/main branch.
 - **Feature Branch:**
-  - Full assignment developed on a branch (e.g., `instagram-stories-feature`).
+  - Full assignment developed on a branch feature-instagram-stories
 - **Pull Request:**
   - A PR was raised from the feature branch to master/main for review.
 
@@ -105,8 +105,8 @@ A simplified version of Instagram Stories built with **Vite + React** and TypeSc
 ## Deployment
 
 - **Live Demo:**
-  - The application will be deployed on [Your Deployment Platform] (e.g., Vercel, Netlify, or Heroku).
-  - **Deployment Link:** *To be updated once the app is deployed.*
+  - The application is deployed on Vercel.
+  - Visit: [https://feature-instagram-stories.vercel.app](https://feature-instagram-stories.vercel.app)
 
 ---
 
